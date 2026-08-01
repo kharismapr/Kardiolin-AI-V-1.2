@@ -1,0 +1,26 @@
+# Environment files (contains sensitive API keys)
+.env
+
+# Python virtual environments and caches
+.venv/
+venv/
+__pycache__/
+
+# Java/Python build and runtime output
+*.class
+build/
+dist/
+*.log
+hs_err_pid*.log
+
+# Agent artifacts
+.assistant/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsRLxIR9Iu4=",
+  "success": true,
+  "projectFilePath": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\April\\.nuget\\packages\\ecgconversion\\3.1.0\\ecgconversion.3.1.0.nupkg.sha512",
+    "C:\\Users\\April\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\April\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512",
+    "C:\\Users\\April\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

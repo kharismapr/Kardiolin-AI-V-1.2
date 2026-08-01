@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Agent artifacts
+.assistant/
+
+# Environment files and local Python environments
+.env
+.venv/
+venv/
+__pycache__/
+
+# Java/Python build and runtime output
+build/
+dist/
+*.class
+*.log
+hs_err_pid*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Agent files
+AGENT.md
