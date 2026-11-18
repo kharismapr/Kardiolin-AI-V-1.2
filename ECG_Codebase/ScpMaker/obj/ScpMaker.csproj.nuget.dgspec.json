@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj": {}
+    "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj": {}
   },
   "projects": {
-    "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj": {
+    "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj",
+        "projectUniqueName": "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj",
         "projectName": "ScpMaker",
-        "projectPath": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj",
+        "projectPath": "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj",
         "packagesPath": "C:\\Users\\April\\.nuget\\packages\\",
-        "outputPath": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpMaker\\obj\\",
+        "outputPath": "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpMaker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\April\\AppData\\Roaming\\NuGet\\NuGet.Config"

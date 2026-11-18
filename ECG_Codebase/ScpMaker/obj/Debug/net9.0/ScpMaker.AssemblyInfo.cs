@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScpMaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de8178ba0ff5dc74678ca4b4659d1379807731f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+badd01c751459d7312efef58b8caf1a03ed10880")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScpMaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScpMaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

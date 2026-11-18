@@ -183,17 +183,36 @@ public class MainDashboard extends javax.swing.JFrame {
 
     // Method khusus untuk memanggil modelekg.exe
     private void startPythonBackend() {
-        try {
-            String flaskExePath = "modelekg.exe"; 
-            
-            ProcessBuilder pb = new ProcessBuilder(flaskExePath);
-            pythonProcess = pb.start();
-            System.out.println("Backend Python sedang berjalan di background...");
-            
-        } catch (Exception e) {
-            System.err.println("Gagal menjalankan backend Python: " + e.getMessage());
+    try {
+        // Folder tempat JAR berada: folder app pada paket EXE.
+        File jarFile = new File(
+            getClass().getProtectionDomain()
+                .getCodeSource().getLocation().toURI()
+        );
+        File appDir = jarFile.getParentFile();
+        File backendExe = new File(appDir, "modelekg.exe");
+
+        if (!backendExe.isFile()) {
+            throw new java.io.FileNotFoundException(
+                backendExe.getAbsolutePath()
+            );
         }
+
+        ProcessBuilder pb =
+            new ProcessBuilder(backendExe.getAbsolutePath());
+
+        // Jalankan dari folder yang juga berisi .env.
+        pb.directory(appDir);
+
+        pythonProcess = pb.start();
+        System.out.println("Proses backend Python berhasil dimulai.");
+
+    } catch (Exception e) {
+        System.err.println(
+            "Gagal menjalankan backend Python: " + e.getMessage()
+        );
     }
+}
 
     // Getter method untuk NewPatientFrame bisa akses
     public PatientService getPatientService() {

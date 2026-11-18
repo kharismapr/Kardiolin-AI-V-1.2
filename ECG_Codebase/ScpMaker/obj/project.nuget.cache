@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DsRLxIR9Iu4=",
+  "dgSpecHash": "eHz8uTohACM=",
   "success": true,
-  "projectFilePath": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj",
+  "projectFilePath": "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpMaker\\ScpMaker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\April\\.nuget\\packages\\ecgconversion\\3.1.0\\ecgconversion.3.1.0.nupkg.sha512",
     "C:\\Users\\April\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",

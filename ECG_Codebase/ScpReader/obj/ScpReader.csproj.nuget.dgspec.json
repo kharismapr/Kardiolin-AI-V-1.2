@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpReader\\ScpReader.csproj": {}
+    "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpReader\\ScpReader.csproj": {}
   },
   "projects": {
-    "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpReader\\ScpReader.csproj": {
+    "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpReader\\ScpReader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpReader\\ScpReader.csproj",
+        "projectUniqueName": "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpReader\\ScpReader.csproj",
         "projectName": "ScpReader",
-        "projectPath": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpReader\\ScpReader.csproj",
+        "projectPath": "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpReader\\ScpReader.csproj",
         "packagesPath": "C:\\Users\\April\\.nuget\\packages\\",
-        "outputPath": "D:\\ima\\SEM7\\KP\\visualisasiECG\\ECG_Codebase\\ScpReader\\obj\\",
+        "outputPath": "D:\\ima\\SEM7\\KP\\Kardiolin-AI\\ECG_Codebase\\ScpReader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\April\\AppData\\Roaming\\NuGet\\NuGet.Config"
