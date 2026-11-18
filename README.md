@@ -24,8 +24,6 @@ If you are new to this repository or want to extend its capabilities, follow thi
 
 1. **Review Documentation**:
    - `projects.md` — Comprehensive technical architecture, REST API reference, DB configuration, and troubleshooting guide.
-   - `ECG_Codebase/AGENT.md` — Main codebase directory navigation guide.
-   - `ECG_Codebase/src/projectecg/AGENT.md` — Java package architecture guide.
 
 2. **Quick Run Steps**:
    - **Step 1**: Create `.env` in `ECG_Codebase/` (set `FLASK_API_KEY`, `OPENROUTER_API_KEY`, and MySQL credentials).
@@ -99,7 +97,6 @@ visualisasiECG/
     │
     └── src/
         └── projectecg/            # Core Java Swing application package
-            ├── AGENT.md           # Java package architecture guide
             │
             ├── client/            # REST API Client Layer
             │   └── FlaskApiClient.java      # Singleton HTTP client with X-API-Key auth
